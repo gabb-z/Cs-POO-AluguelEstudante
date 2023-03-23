@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\AluguelEstudante\AluguelEstudante\bin\Debug\netcoreapp3.1\AluguelEstudante.exe
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\AluguelEstudante\AluguelEstudante\bin\Debug\netcoreapp3.1\AluguelEstudante.deps.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\AluguelEstudante\AluguelEstudante\bin\Debug\netcoreapp3.1\AluguelEstudante.runtimeconfig.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\AluguelEstudante\AluguelEstudante\bin\Debug\netcoreapp3.1\AluguelEstudante.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\AluguelEstudante\AluguelEstudante\bin\Debug\netcoreapp3.1\AluguelEstudante.dll
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\AluguelEstudante\AluguelEstudante\bin\Debug\netcoreapp3.1\AluguelEstudante.pdb
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\AluguelEstudante\AluguelEstudante\obj\Debug\netcoreapp3.1\AluguelEstudante.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\AluguelEstudante\AluguelEstudante\obj\Debug\netcoreapp3.1\AluguelEstudante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\AluguelEstudante\AluguelEstudante\obj\Debug\netcoreapp3.1\AluguelEstudante.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\AluguelEstudante\AluguelEstudante\obj\Debug\netcoreapp3.1\AluguelEstudante.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\AluguelEstudante\AluguelEstudante\obj\Debug\netcoreapp3.1\AluguelEstudante.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\AluguelEstudante\AluguelEstudante\obj\Debug\netcoreapp3.1\AluguelEstudante.dll
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\AluguelEstudante\AluguelEstudante\obj\Debug\netcoreapp3.1\AluguelEstudante.pdb
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\AluguelEstudante\AluguelEstudante\obj\Debug\netcoreapp3.1\AluguelEstudante.genruntimeconfig.cache
